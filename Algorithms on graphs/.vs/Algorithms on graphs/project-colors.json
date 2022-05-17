@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4751a9bd-2c8a-4df4-9b2c-fc6767d4beb2": {
+      "ProjectGuid": "4751a9bd-2c8a-4df4-9b2c-fc6767d4beb2",
+      "DisplayName": "Algorithms on graphs",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "50dddbf4-dac4-4c95-8114-de2c195f43ed": {
+      "ProjectGuid": "50dddbf4-dac4-4c95-8114-de2c195f43ed",
+      "DisplayName": "Test Algorithms on graphs",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

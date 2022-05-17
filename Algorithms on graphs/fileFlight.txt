@@ -1,0 +1,5 @@
+Saint Petersburg;Moscow;1000;2000
+Moscow;Khabarovsk;4000;3500
+Saint Petersburg;Khabarovsk;1400;N/A
+Vladivostok;Khabarovsk;1300;800
+Vladivostok;Saint Petersburg;N/A;2000

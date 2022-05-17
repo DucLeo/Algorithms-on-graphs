@@ -1,0 +1,5 @@
+﻿  test.cpp
+C:\Users\GodLu\source\repos\Test Algorithms on graphs\test.cpp(6,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+C:\Users\GodLu\source\repos\Test Algorithms on graphs\test.cpp(50,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+C:\Users\GodLu\source\repos\Test Algorithms on graphs\test.cpp(80,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+  Test Algorithms on graphs.vcxproj -> C:\Users\GodLu\source\repos\Algorithms on graphs\x64\Debug\Test Algorithms on graphs.exe
